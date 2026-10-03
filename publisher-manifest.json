@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bc60c8b901342ddc7af326ca",
+  "owner": "yynhkmfhy",
+  "repo": "page-d693c8bca890088546bee9fd",
+  "title": "千速喵(TSmeow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d693c8bca890088546bee9fd",
+      "a": "千速喵(TSmeow)",
+      "b": "",
+      "entity": "千速喵(TSmeow)",
+      "brand": "千速喵(TSmeow)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a598c9ec03e21108e4972c979c65e065a8cbfa76da480aa644f1da0ddd9b29ef",
+      "content": {
+        "keyword1": "千速喵(TSmeow)",
+        "keyword2": "",
+        "primary_entity": "千速喵(TSmeow)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "千速喵(TSmeow)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，覆盖套餐说明、配置流程与常见问题，方便完成节点导入与稳定连接。",
+          "AI_DESCRIPTION": "千速喵(TSmeow)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，覆盖套餐说明、配置流程与常见问题，方便完成节点导入与稳定连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F4EE;color:#1C241E;line-height:1.75;font-size:16px}a{color:#1F5C3A}header{background:#1F5C3A;color:#F7F4EE}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding-top:12px;padding-bottom:12px}.brand-mark{font-weight:700;font-size:18px;color:#F7F4EE;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#E8F0EA;text-decoration:none;font-size:14px}.wrap{max-width:920px;margin:0 auto;padding:0 16px}main{padding:8px 0 28px}h1{font-size:26px;line-height:1.35;color:#163D28;margin:22px 0 12px}h2{font-size:20px;color:#1F5C3A;margin:28px 0 12px;padding-left:10px;border-left:4px solid #1F5C3A}h3{font-size:17px;color:#163D28;margin:16px 0 8px}p{margin:0 0 12px}ul,ol{margin:0 0 12px 1.2em}li{margin:0 0 6px}.lead{font-size:17px;color:#2A332D}.muted{color:#4A554C;font-size:14px}.card{background:#fff;border:1px solid #D5E3D8;border-radius:8px;padding:16px;margin-bottom:12px}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#fff;border:1px solid #D5E3D8;border-radius:8px;padding:16px}.plan.featured{border:2px solid #1F5C3A;background:#E8F0EA}.badge{display:inline-block;background:#1F5C3A;color:#F7F4EE;font-size:12px;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.price{font-size:22px;font-weight:700;color:#1F5C3A;margin:6px 0}.annual{font-size:14px;color:#2E7D4F;margin-bottom:8px}.steps{display:flex;flex-direction:column;gap:10px}.step{background:#fff;border:1px solid #D5E3D8;border-radius:8px;padding:14px 16px}.step .num{display:inline-block;min-width:28px;height:28px;line-height:28px;text-align:center;background:#1F5C3A;color:#F7F4EE;border-radius:50%;font-size:14px;font-weight:700;margin-right:8px}details{background:#fff;border:1px solid #D5E3D8;border-radius:8px;padding:12px 14px;margin-bottom:8px}summary{font-weight:600;color:#1F5C3A}details p{margin-top:8px}footer{background:#163D28;color:#E8F0EA;padding:24px 0;margin-top:12px;font-size:14px}footer a{color:#C5DCCB;text-decoration:none;margin-right:10px}.grid2{display:flex;flex-direction:column;gap:12px}.list-plain{list-style:none;margin-left:0}section{scroll-margin-top:8px}</style><header><div class=\"wrap\"><a class=\"brand-mark\" href=\"#top\">千速喵(TSmeow)</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#flow\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><h1>千速喵(TSmeow) 官方网站</h1><p class=\"lead\">千速喵(TSmeow) 面向日常上网、流媒体与跨境协作，提供机场订阅与 VPN 梯子网络加速服务。本站集中说明套餐、官方下载路径与配置流程，帮助你完成客户端导入与稳定连接。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"card\"><p>千速喵(TSmeow) 将机场订阅、节点调度与多端客户端配合使用，覆盖手机、电脑与平板。服务重点在于可预期的流量套餐、清晰的设备台数限制，以及把导入订阅、选择节点、开启加速拆成可照做的步骤。</p><p>节点池包含普通线路与 IPLC 专线优化线路（视套餐而定）。基础流媒体与原生流媒体解锁分层提供，游戏加速在旗舰版与团队版中单独标注。官方网站仅发布套餐说明、配置流程与客户端下载指引，不额外编造评分或用户评论。</p><p class=\"muted\">若你正在寻找千速喵机场订阅、千速喵 VPN 或加速器客户端，请以本页套餐与流程为准，再进入对应客户端完成导入。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid2\"><div class=\"card\"><h3>办公协作与资料访问</h3><p>远程会议、云盘同步、海外文档站点访问时，用稳定线路降低超时。团队版支持更多设备与定制路由，适合多人共用同一订阅策略。</p></div><div class=\"card\"><h3>流媒体与内容浏览</h3><p>基础版解锁基础流媒体；旗舰版与团队版提供全节点原生流媒体解锁，适合长时间观看与跨区内容切换。</p></div><div class=\"card\"><h3>游戏与低延迟需求</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载。请在客户端中优先选择标注游戏或专线的节点。</p></div><div class=\"card\"><h3>出行与多设备切换</h3><p>手机热点、酒店网络或临时电脑都可导入同一订阅。注意各套餐同时在线设备数：基础 3 台、旗舰 5 台、团队 20 台。</p></div></div></section><section id=\"plans\"><h2>套餐与流量说明</h2><p>价格按自然月计费，年付为一次性支付十二个月。流量为每月额度，套餐周期内用尽即降速或需等待下一周期，具体以账户面板提示为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"flow\"><h2>配置流程</h2><p>千速喵(TSmeow) 强调把机场订阅落到客户端。请按下列纵向步骤操作，多数无法连接的问题出现在第 3 步订阅未更新或第 4 步选错节点。</p><div class=\"steps\"><div class=\"step\"><h3><span class=\"num\">1</span>获取订阅</h3><p>在官方账户中复制机场订阅链接（Clash / Sing-Box / 通用订阅择一即可）。不要把链接发到公开聊天。若面板提供二维码，仅用于本机客户端扫描。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>安装客户端</h3><p>前往本页「客户端下载」选择与系统匹配的软件：Windows / macOS / Android / iOS / Linux。安装完成后先不要急着连，先确认应用具备导入配置或订阅的入口。</p></div><div class=\"step\"><h3><span class=\"num\">3</span>导入订阅</h3><p>打开客户端的订阅或配置页，粘贴链接并更新。成功后应出现节点列表。若列表为空，检查链接是否完整、是否被空格截断，然后强制刷新订阅。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>选择策略与节点</h3><p>规则模式建议选「规则」而非全局，减少无关流量消耗。流媒体选解锁节点，游戏选 IPLC 或低延迟节点。同一套餐下可收藏常用节点，避免每次手动翻找。</p></div><div class=\"step\"><h3><span class=\"num\">5</span>开启加速并验证</h3><p>打开系统代理或 VPN 开关，访问目标站点确认连通。建议同时看延迟与流量计数是否增长。若失败，切换节点、更换网络（如从 Wi-Fi 改蜂窝），再回到第 3 步更新订阅。</p></div><div class=\"step\"><h3><span class=\"num\">6</span>多设备同步</h3><p>同一订阅可在多台设备导入，但同时在线不得超过套餐上限。团队版如需分流，可在路由策略中按域名或 IP 划分办公与娱乐流量。</p></div></div></section><section id=\"download\"><h2>客户端下载与官方入口</h2><div class=\"card\"><p>千速喵(TSmeow) 官网下载指引按系统分类。请只从系统商店或开发者发布页安装客户端，再导入本站订阅，避免来路不明的安装包。</p><h3>桌面端</h3><ul><li>Windows：Clash Meta 内核图形客户端、v2rayN，适合规则分流与系统代理。</li><li>macOS：Clash Verge、Stash、Surge，导入后开启增强模式或系统扩展。</li><li>Linux：Clash Meta / sing-box 命令行或兼容图形前端，注意赋予 TUN 权限。</li></ul><h3>移动端</h3><ul><li>Android：Clash Meta for Android、Hiddify 等，导入订阅后允许 VPN 权限。</li><li>iOS：Shadowrocket、Quantumult X、Stash，通过商店安装后扫描或粘贴订阅。</li></ul><p>下载完成后回到 <a href=\"#flow\">配置流程</a> 第 3 步。本页不托管安装包文件，官方下载以各客户端发布渠道为准。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">遇到导入失败</a></p></div></section><section id=\"guide\"><h2>操作说明：日常维护</h2><div class=\"card\"><h3>更新与流量</h3><p>节点会定期变更，建议客户端开启定时更新订阅。月度流量在面板中核对，接近上限时减少大文件下载或改用年付更高额度套餐。</p><h3>分流建议</h3><p>国内直连、国外走代理是默认策略。仅在目标站点无法打开时临时改全局。游戏请关闭占用带宽的下载任务。</p><h3>工单</h3><p>旗舰版提供 7x24 优先工单；团队版另有专属客户经理。提交时请附系统版本、客户端名称、订阅更新时间与错误截取文字，便于定位。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>千速喵(TSmeow) 如何获取机场订阅并完成第一次连接？</summary><p>登录官方账户复制订阅链接，安装对应系统客户端，在订阅栏粘贴并更新，选择规则模式与可用节点后开启连接。完整顺序见本页配置流程第 1 至第 5 步。</p></details><details><summary>客户端下载支持哪些系统？必须用指定软件吗？</summary><p>Windows、macOS、Linux、Android 与 iOS 均可。只要客户端能导入 Clash 或通用订阅即可，不必绑定单一软件。请从正规渠道下载，再回到官网流程完成导入。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 台）。需要原生流媒体、游戏专线与优先工单选旗舰版（300GB / 5 台）。多人共用、高带宽与定制路由选团队版（1000GB / 20 台）。</p></details><details><summary>导入订阅后连不上或列表是空的怎么办？</summary><p>先检查链接是否完整、是否过期，在客户端强制更新。然后更换节点与本地网络，关闭冲突的其他加速器。仍失败时记录客户端日志并走工单，旗舰版与团队版响应更优先。</p></details><details><summary>年付和月付有什么差别？流量会清零吗？</summary><p>年付按十二个月一次性支付，单价更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。流量按月额度计算，不把十二个月流量合并成一个大池。未使用完的当月额度一般不结转，以账户说明为准。</p></details><details><summary>流媒体解锁和游戏加速分别依赖什么？</summary><p>基础版提供基础流媒体；旗舰版与团队版为全节点原生解锁。游戏加速依赖旗舰版 IPLC 专线及团队版 VIP 高带宽节点，请在客户端选择对应标签节点，而不是随机节点。</p></details></section><section id=\"ads\"><h2>合作展示</h2><div class=\"card\"><p>本栏用于品牌合作文字展示，不投放弹窗。合作方向包括网络工具评测、客户端教程图文与企业线路咨询，联系方式见页脚。</p><p class=\"muted\">展示示例：办公网络优化手册 · 多端订阅导入对照表 · 团队路由策略说明（均链至页内锚点）。</p></div></section><section id=\"links\"><h2>友情链接</h2><div class=\"card\"><p><a href=\"#download\">客户端下载指引</a> <a href=\"#flow\">配置流程</a> <a href=\"#plans\">套餐说明</a> <a href=\"#faq\">常见问题</a> <a href=\"#sitemap\">网站地图</a></p><p class=\"muted\">友链仅使用站内锚点，便于对照机场订阅、VPN 梯子与加速器操作，不跳转不明外部地址。</p></div></section><section id=\"sitemap\"><h2>网站地图</h2><div class=\"card\"><ul class=\"list-plain\"><li><a href=\"#top\">首页 · 千速喵(TSmeow)官网</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐与流量</a></li><li><a href=\"#flow\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#guide\">日常操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#links\">友情链接</a></li></ul></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>千速喵(TSmeow) 官方网站 · 机场订阅与网络加速说明</p><p><a href=\"#top\">返回顶部</a><a href=\"#download\">官方下载</a><a href=\"#sitemap\">网站地图</a></p><p class=\"muted\">页面为静态说明，不含评分与用户评论模块。使用加速服务时请遵守所在地法律法规与目标网站条款。</p></div></footer>",
+          "hash": "36e913d87c7fd9671bb3030192a3bb0ff1bd9b4a8db2ef19b5da8c27aa281bd7",
+          "seo": {
+            "title": "千速喵(TSmeow)官网 | VPN梯子网络加速与客户端下载",
+            "keywords": "千速喵,TSmeow,千速喵机场,千速喵VPN,机场订阅,梯子,网络加速,加速器,客户端下载,官网下载",
+            "description": "千速喵(TSmeow)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，覆盖套餐说明、配置流程与常见问题，方便完成节点导入与稳定连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yggdjj.cn",
+    "host": "p-cb6c0b36f6.yggdjj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "yggdjj.cn",
+      "url": "https://yggdjj.cn/",
+      "label": "穿天猴(XrayPort)",
+      "apex": "yggdjj.cn",
+      "kind": null,
+      "identity": "qh6b3qjke/page-eaee38a8c7ef9da3c00eaee9"
+    },
+    {
+      "host": "900babd.cn",
+      "url": "https://900babd.cn/",
+      "label": "千速喵(TSmeow)",
+      "apex": "900babd.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-4f2d234b34c26a1e8b89e8df"
+    },
+    {
+      "host": "aaffh.cn",
+      "url": "https://aaffh.cn/",
+      "label": "千速喵(TSmeow)",
+      "apex": "aaffh.cn",
+      "kind": null,
+      "identity": "wegyvj/page-6a758a505c03d3bf8ba488d3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2f2ef1ab9d228330786bbc0550047b8adcbd5a2dfe248c1c43d31ee6501f1a35",
+    "sitemap.xml": "fc133d5d40e9e2a5ee02193f80cc801df1dbc856f18a337b21a8cf754c396c9e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1cb20acdce55e33269dd9c8f5124a539e4b7041f6e9bb372bde414abe7371f62",
+    "robots.txt": "fd323009368f4332e34424dd052cd0c2192c3da57a4e60a14e35f466cb504dfb",
+    "bcb6f33a9848f578855da028e49c90e7.txt": "1d5bc267804427e6b603f691081118dd985be93c8bdf0396a555f1c15162d878"
+  },
+  "revision": "60a8dffafb98c491e205b9f5762db8ee52e3e15748ded63d437c39e189d63d7b"
+}
